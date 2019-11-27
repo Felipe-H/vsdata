@@ -22,7 +22,7 @@ Quantidade de pessoas(média)na família por estado/UF
 
     .. image:: img10.png
 
-**Passo 4: Após as opções, clique na parte de "População"**
+**Passo 4: Entre as opções dos Dados Demográficos, clique na parte de "População"**
 --------------------------------------------
 
     .. image:: dadosdem.png
@@ -30,9 +30,11 @@ Quantidade de pessoas(média)na família por estado/UF
 **Passo 5: Procure pela opção "Percentual da População Urbana/Rural -Censo IBGE" e em seguida opções no canto direito da tela**:
 ----------------------------------------------
 
+
     .. image:: opcoes2.png
 
-**Passo 6: Em "Gerenciar Visualização", escolha a agregação desejada (Estado/UF) e em seguica clicar em "Aplicar" para obter o resultado**
+
+**Passo 6: Em "Gerenciar Visualização", escolha a agregação desejada (Estado/UF) e em seguida clicar em "Aplicar" para obter o resultado**
 ---------------------------------------------------------------------------------
 
     .. image:: gerenciador3.png
